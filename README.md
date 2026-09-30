@@ -4,22 +4,22 @@
   </a>
 </p>
 
-<h2 align="center">hi, i'm huong ✿</h2>
+<h2 align="center">Hi, I'm Huong ✿</h2>
 
 <p align="center">
-  cs junior at ut austin, minoring in statistics &amp; data science.<br>
-  i like systems work, backend stuff, and building small things that run well.
+  CS junior at UT Austin, minoring in Statistics &amp; Data Science.<br>
+  I like systems work, backend stuff, and building small things that run well.
 </p>
 
 <p align="center">
-  <a href="https://huongnnguyen.github.io"><img src="https://img.shields.io/badge/%E2%9C%BF%20portfolio-huongnnguyen.github.io-cfe3b0?style=flat-square&labelColor=fffdf8" alt="✿ portfolio"></a>
-  <a href="https://linkedin.com/in/hnn123"><img src="https://img.shields.io/badge/%E2%9C%BF%20linkedin-hnn123-cfe0f0?style=flat-square&labelColor=fffdf8" alt="✿ linkedin"></a>
-  <a href="mailto:huongn@utexas.edu"><img src="https://img.shields.io/badge/%E2%9C%BF%20email-huongn%40utexas.edu-f6d3db?style=flat-square&labelColor=fffdf8" alt="✿ email"></a>
+  <a href="https://huongnnguyen.github.io"><img src="https://img.shields.io/badge/%E2%9C%BF%20Portfolio-huongnnguyen.github.io-cfe3b0?style=flat-square&labelColor=fffdf8" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/hnn123"><img src="https://img.shields.io/badge/%E2%9C%BF%20LinkedIn-hnn123-cfe0f0?style=flat-square&labelColor=fffdf8" alt="LinkedIn"></a>
+  <a href="mailto:huongn@utexas.edu"><img src="https://img.shields.io/badge/%E2%9C%BF%20Email-huongn%40utexas.edu-f6d3db?style=flat-square&labelColor=fffdf8" alt="Email"></a>
 </p>
 
 <br>
 
-<h3 align="center">⋆ tools ⋆</h3>
+<h3 align="center">⋆ Tools ⋆</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-fbe3cf?style=for-the-badge&logo=openjdk&logoColor=2b2a22" alt="Java">
@@ -39,21 +39,21 @@
 
 <br>
 
-<h3 align="center">⋆ projects ⋆</h3>
+<h3 align="center">⋆ Projects ⋆</h3>
 
 <p align="center">
   <a href="https://github.com/huongnnguyen/corral"><img src="corral.svg" alt="corral" width="400"></a>
   <a href="https://github.com/huongnnguyen/Purrse"><img src="purrse.svg" alt="Purrse" width="400"></a>
 </p>
 
-<p align="center"><sub>also built, just not on github: a pintos kernel, an arm pipeline + cache emulator, and a 24 hour hackathon horror game</sub></p>
+<p align="center"><sub>Also built, just not on GitHub: a PintOS kernel, an ARM pipeline + cache emulator, and a 24 hour hackathon horror game</sub></p>
 
 <br>
 
-<h3 align="center">⋆ garden ⋆</h3>
+<h3 align="center">⋆ Garden ⋆</h3>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/8ccf85/huongnnguyen" alt="contributions" width="100%">
 </p>
 
-<p align="center"><sub>˚ʚ♡ɞ˚ thanks for stopping by ˚ʚ♡ɞ˚</sub></p>
+<p align="center"><sub>˚ʚ♡ɞ˚ Thanks for stopping by! ˚ʚ♡ɞ˚</sub></p>
