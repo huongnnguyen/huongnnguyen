@@ -50,7 +50,7 @@
 
 <br>
 
-<h3 align="center">⋆ Garden ⋆</h3>
+<h3 align="center">☆ Garden ☆</h3>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/8ccf85/huongnnguyen" alt="contributions" width="100%">
