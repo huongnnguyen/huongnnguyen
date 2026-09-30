@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://huongnnguyen.github.io">
-    <img src="preview.png" alt="Huong's portfolio" width="420">
-  </a>
-</p>
-
 <h2 align="center"> Hi, I'm Huong! ₍^. .^₎⟆ </h2>
 
 <p align="center">
@@ -12,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://huongnnguyen.github.io"><img src="https://img.shields.io/badge/%E2%9C%BF%20Portfolio-huongnnguyen.github.io-cfe3b0?style=flat-square&labelColor=fffdf8" alt="Portfolio"></a>
+  <a href="https://huongnnguyen.github.io/"><img src="https://img.shields.io/badge/%E2%9C%BF%20Portfolio-huongnnguyen.github.io-cfe3b0?style=flat-square&labelColor=fffdf8" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/hnn123"><img src="https://img.shields.io/badge/%E2%9C%BF%20LinkedIn-hnn123-cfe0f0?style=flat-square&labelColor=fffdf8" alt="LinkedIn"></a>
   <a href="mailto:huongn@utexas.edu"><img src="https://img.shields.io/badge/%E2%9C%BF%20Email-huongn%40utexas.edu-f6d3db?style=flat-square&labelColor=fffdf8" alt="Email"></a>
 </p>
