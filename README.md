@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h2 align="center">Hi, I'm Huong 🌼</h2>
+<h2 align="center">⋆. 𐙚˚࿔ Hi, I'm Huong! ₍^. .^₎⟆ 𝜗𝜚˚⋆</h2>
 
 <p align="center">
   CS junior at UT Austin, minoring in Statistics &amp; Data Science.<br>
@@ -19,7 +19,7 @@
 
 <br>
 
-<h3 align="center">⋆ Tools ⋆</h3>
+<h3 align="center">☆ Tools ☆</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-fbe3cf?style=for-the-badge&logo=openjdk&logoColor=2b2a22" alt="Java">
@@ -39,7 +39,7 @@
 
 <br>
 
-<h3 align="center">⋆ Projects ⋆</h3>
+<h3 align="center">☆ Projects ☆</h3>
 
 <p align="center">
   <a href="https://github.com/huongnnguyen/corral"><img src="corral.svg" alt="corral" width="400"></a>
