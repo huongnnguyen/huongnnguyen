@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h2 align="center">Hi, I'm Huong 🤍</h2>
+<h2 align="center">Hi, I'm Huong 🌼</h2>
 
 <p align="center">
   CS junior at UT Austin, minoring in Statistics &amp; Data Science.<br>
