@@ -13,7 +13,7 @@
 
 <br>
 
-<h3 align="center">⋆. 𐙚˚࿔ Tools 𝜗𝜚˚⋆</h3>
+<h3 align="center">⋆ Tools ⋆</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-fbe3cf?style=for-the-badge&logo=openjdk&logoColor=2b2a22" alt="Java">
@@ -33,7 +33,7 @@
 
 <br>
 
-<h3 align="center">⋆. 𐙚˚࿔ Projects 𝜗𝜚˚⋆</h3>
+<h3 align="center">⋆ Projects ⋆</h3>
 
 <p align="center">
   <a href="https://github.com/huongnnguyen/corral"><img src="corral.svg" alt="corral" width="400"></a>
@@ -44,7 +44,7 @@
 
 <br>
 
-<h3 align="center">⋆. 𐙚˚࿔ Garden 𝜗𝜚˚⋆</h3>
+<h3 align="center">⋆ Garden ⋆</h3>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/8ccf85/huongnnguyen" alt="contributions" width="100%">
